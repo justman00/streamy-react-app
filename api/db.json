@@ -4,6 +4,12 @@
       "title": "test",
       "description": "test",
       "id": 1
+    },
+    {
+      "title": "My new Stream",
+      "description": "Watch LEC",
+      "userId": "100385901106167654570",
+      "id": 2
     }
   ]
 }
